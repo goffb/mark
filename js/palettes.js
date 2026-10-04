@@ -116,6 +116,19 @@ export const palettes = [
     site:    "#64748b",
     dark:    "#1c1d22"
   },
+  {
+    id: "gray",
+    label: "gray",
+    bg:      "#c0c0c0",
+    frame:   "#d1d1d1",
+    box:     "#d0d0d0",
+    main:    "#505050",
+    shade:   "#909090",
+    light:   "#f0f0f0",
+    name:    "#202020",
+    site:    "#505050",
+    dark:    "#c0c0c0"
+  }
 ];
 
 export function getPalette(id) {
