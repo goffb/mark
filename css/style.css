@@ -267,4 +267,7 @@ body {
     padding: 8px 12px;
     text-align: center;
   }
+  .group > label {
+    padding: 4px 0;
+  }
 }
