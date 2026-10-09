@@ -6,4 +6,4 @@
 
 make a mark is a simple tool to build 88×31 badges.
 
-**[website ↗](https://goffb.github.io/mark/)** · free & open source · [GPL-3.0](LICENSE)
+**[website ↗](https://makeamark.cc)** · free & open source · [GPL-3.0](LICENSE)
