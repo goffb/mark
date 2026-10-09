@@ -9,6 +9,7 @@ import mail from "./mail.js";
 import onigiri from "./onigiri.js";
 import torii from "./torii.js";
 import mushroom from "./mushroom.js";
+import key from "./key.js";
 
 export const characters = [
   cat,
@@ -22,6 +23,7 @@ export const characters = [
   onigiri,
   torii,
   mushroom,
+  key,
 ];
 
 export function getCharacter(id) {
