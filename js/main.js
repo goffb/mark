@@ -113,7 +113,7 @@ function renderSuggestions() {
 }
 
 renderPicker(palettePicker, palettes, "palette", "blue");
-renderPicker(characterPicker, characters, "character", "torii");
+renderPicker(characterPicker, characters, "character", "cat");
 
 for (const input of inputs) {
   input.addEventListener("input", update);
