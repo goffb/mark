@@ -11,7 +11,7 @@ export function buildBadge(state) {
   const character = getCharacter(state.characterId);
 
   const title = clamp(state.title, TITLE_LIMIT) || "HOLA!";
-  const site = clamp(getSite(state.site), SITE_LIMIT) || "example.com";
+  const site = clamp(getSite(state.site), SITE_LIMIT) || "domain, name, <3";
   const body = character.render(palette);
 
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${BADGE_SIZE[0]}" height="${BADGE_SIZE[1]}" viewBox="0 0 ${BADGE_SIZE[0]} ${BADGE_SIZE[1]}" shape-rendering="crispEdges">
