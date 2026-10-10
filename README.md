@@ -4,6 +4,6 @@
   <img src="./assets/mam-draw.png" width="100%" alt="make a mark draw">
 </p>
 
-make a mark is a simple tool to build 88×31 badges.
+make a mark is a simple tool to build modern 88×31 badges.
 
 **[website ↗](https://makeamark.cc)** · free & open source · [GPL-3.0](LICENSE)
