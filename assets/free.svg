@@ -22,6 +22,6 @@
       <rect x="14" y="5" width="2" height="1" fill="#d4fffa"/>
       <rect x="15" y="14" width="4" height="4" fill="#1e4a34" opacity="0.5"/>
     
-  <text x="32" y="16" fill="#2f6f4e" font-family="monospace" font-size="9" font-weight="900" letter-spacing="-0.3" style="text-transform: none;"># FREE</text>
-  <text x="32" y="25" fill="#6b7a6e" font-family="monospace" font-size="5" letter-spacing="-0.15" style="text-transform: none;">for all &lt;3</text>
+  <text x="32" y="16" fill="#2f6f4e" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="900" letter-spacing="-0.3" style="text-transform: none;"># FREE</text>
+  <text x="32" y="25" fill="#6b7a6e" font-family="Arial, Helvetica, sans-serif" font-size="5" letter-spacing="-0.15" style="text-transform: none;">GPL-3.0</text>
 </svg>
