@@ -22,6 +22,6 @@
       <rect x="5" y="6" width="20" height="1" fill="#ffd4e4"/>
       <rect x="8" y="9" width="1" height="16" fill="#ffd4e4"/>
     
-  <text x="32" y="16" fill="#ffd4e4" font-family="monospace" font-size="9" font-weight="900" letter-spacing="-0.3" style="text-transform: none;">88X31 ^:</text>
-  <text x="32" y="25" fill="#8b5a72" font-family="monospace" font-size="5" letter-spacing="-0.15" style="text-transform: none;">⠀</text>
+  <text x="32" y="16" fill="#ffd4e4" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="900" letter-spacing="-0.3" style="text-transform: none;">88X31 ^:</text>
+  <text x="32" y="25" fill="#8b5a72" font-family="Arial, Helvetica, sans-serif" font-size="5" letter-spacing="-0.15" style="text-transform: none;">⠀</text>
 </svg>
