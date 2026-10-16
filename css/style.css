@@ -20,6 +20,9 @@
 code {
   background: #ffa;
 }
+a {
+  -webkit-tap-highlight-color: transparent;
+}
 body {
   background-color: var(--bg);
   color: var(--fg);
@@ -37,6 +40,8 @@ body {
 }
 .app-header {
   margin-bottom: 7px;
+  display: flex;
+  justify-content: space-between;
 }
 .app-header .logo {
   font-size: 24px;
@@ -48,6 +53,16 @@ body {
 .app-header .tagline {
   font-size: 14px;
   color: var(--muted);
+}
+.app-header .about-link{
+  color: var(--fg);
+  font-size: 16px;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  align-self: flex-start;
+}
+.app-header .about-link::before{
+  content: "/ ";
 }
 .tricks {
   margin:4px 0;
@@ -248,6 +263,49 @@ body {
   color: var(--fg);
   text-decoration: underline;
   text-underline-offset: 2px;
+}
+.about-page .back-link {
+  display: inline-block;
+  margin-bottom: 24px;
+  color: var(--acc);
+  background-color: var(--cp-background);
+  padding: 4px 7px;
+  font-size: 16px;
+  border-radius: 4px;
+}
+.about-page .back-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.about-page .back-link::before{
+  content: "/ ";
+}
+.about-page .content{
+  max-width: 560px;
+}
+.about-page .content h1 {
+  margin-bottom: 12px;
+  letter-spacing: -0.03em;
+  font-size: 24px;
+  font-weight: 400;
+  color: var(--fg);
+}
+.about-page .content p {
+  line-height: 1.6;
+  color: var(--fg);
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+.about-page .content a{
+  color: var(--acc);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.about-page .source-link a {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
 }
 @media (max-width: 768px) {
   .app {
