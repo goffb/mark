@@ -128,6 +128,71 @@ export const palettes = [
     name:    "#202020",
     site:    "#505050",
     dark:    "#c0c0c0"
+  },
+  {
+    id: "plum",
+    label: "plum",
+    bg:      "#614051",
+    frame:   "#76596a",
+    box:     "#8a6a7a",
+    main:    "#f1b486",
+    shade:   "#d47b69",
+    light:   "#ffe2c5",
+    name:    "#fff2e5",
+    site:    "#d8c9d8",
+    dark:    "#51445f"
+  },
+  {
+    id: "sage",
+    label: "sage",
+    bg:      "#c9d8c9",
+    frame:   "#718a7a",
+    box:     "#b4c7b9",
+    main:    "#a55062",
+    shade:   "#73394f",
+    light:   "#f2d9d1",
+    name:    "#403943",
+    site:    "#775c68",
+    dark:    "#462f43"
+  },
+  {
+    id: "petrol",
+    label: "petrol",
+    bg:      "#587477",
+    frame:   "#405b60",
+    box:     "#587477",
+    main:    "#f0c5a6",
+    shade:   "#c28678",
+    light:   "#ffe4c9",
+    name:    "#fff0dc",
+    site:    "#d9c1ae",
+    dark:    "#754f55"
+  },
+  {
+    id: "mauve",
+    label: "mauve",
+    bg:      "#756477",
+    frame:   "#5f5065",
+    box:     "#756477",
+    main:    "#c7d8e8",
+    shade:   "#91a7bf",
+    light:   "#edf1e8",
+    name:    "#f3e8e3",
+    site:    "#d4c7d8",
+    dark:    "#554f64"
+  },
+  {
+    id: "beige",
+    label: "beige",
+    bg:      "#e8ddc6",
+    frame:   "#a99a7d",
+    box:     "#e8ddc6",
+    main:    "#4f6d88",
+    shade:   "#355069",
+    light:   "#dce8e8",
+    name:    "#26364a",
+    site:    "#4d6276",
+    dark:    "#303b4a"
   }
 ];
 
