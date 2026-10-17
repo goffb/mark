@@ -171,15 +171,15 @@ export const palettes = [
   {
     id: "brick",
     label: "brick",
-    bg:      "#D7D4C8",
+    bg:      "#d7d4c8",
     frame:   "#b8b4a2",
-    box:     "#D7D4C8",
-    main:    "#B94B45",
-    shade:   "#873A3A",
-    light:   "#F2EBDD",
-    name:    "#292B30",
-    site:    "#5B5D60",
-    dark:    "#18191C"
+    box:     "#d7d4c8",
+    main:    "#b94b45",
+    shade:   "#873a3a",
+    light:   "#f2ebdd",
+    name:    "#292b30",
+    site:    "#5b5d60",
+    dark:    "#18191c"
   },
   {
     id: "beige",
