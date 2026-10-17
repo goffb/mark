@@ -169,19 +169,6 @@ export const palettes = [
     dark:    "#754f55"
   },
   {
-    id: "mauve",
-    label: "mauve",
-    bg:      "#756477",
-    frame:   "#5f5065",
-    box:     "#756477",
-    main:    "#c7d8e8",
-    shade:   "#91a7bf",
-    light:   "#edf1e8",
-    name:    "#f3e8e3",
-    site:    "#d4c7d8",
-    dark:    "#554f64"
-  },
-  {
     id: "brick",
     label: "brick",
     bg:      "#D7D4C8",
