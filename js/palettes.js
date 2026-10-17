@@ -165,7 +165,7 @@ export const palettes = [
     shade:   "#c28678",
     light:   "#ffe4c9",
     name:    "#fff0dc",
-    site:    "#d9c1ae",
+    site:    "#fff8ef",
     dark:    "#754f55"
   },
   {
