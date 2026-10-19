@@ -10,6 +10,7 @@ import onigiri from "./onigiri.js";
 import torii from "./torii.js";
 import mushroom from "./mushroom.js";
 import key from "./key.js";
+import bear from "./bear.js";
 
 export const characters = [
   cat,
@@ -24,6 +25,7 @@ export const characters = [
   torii,
   mushroom,
   key,
+  bear,
 ];
 
 export function getCharacter(id) {
