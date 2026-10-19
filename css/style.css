@@ -267,11 +267,10 @@ body {
 .about-page .back-link {
   display: inline-block;
   margin-bottom: 24px;
-  color: var(--acc);
-  background-color: var(--cp-background);
-  padding: 4px 7px;
+  color: var(--fg);
   font-size: 16px;
-  border-radius: 4px;
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 .about-page .back-link::before{
   content: "/ ";
