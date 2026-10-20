@@ -1,5 +1,6 @@
 import { readState } from "./state.js";
 import { buildBadge, paint } from "./render.js";
+import { buildBadge as buildCustomBadge } from "./custom-render.js";
 import { palettes } from "./palettes.js";
 import { characters } from "./characters/index.js";
 import { downloadSvg, copySvg, copyDataUri } from "./export.js";
@@ -22,18 +23,18 @@ const inputs = [titleInput, siteInput];
 let currentSvg = "";
 
 const suggestions = [
-  { title: "human", site: "example.com" },
+  { title: "human", site: "example" },
   { title: "handmade", site: "by hand" },
   { title: "webhead", site: "webring" },
   { title: "raw html", site: "no css" },
-  { title: "webring", site: "prev | next" },
+  { title: "webring", site: "prev|next" },
   { title: "old web", site: "1999" },
   { title: "netizen", site: "\u2800" },
   { title: "internet", site: "www" },
   { title: "bitmap", site: "gif" },
   { title: "404", site: "not found" },
   { title: "private", site: "keep out" },
-  { title: "free", site: "as in freedom" },
+  { title: "free", site: "for all." },
   { title: "css <3", site: "\u2800" },
   { title: "browser", site: "netscape" },
   { title: "ban", site: "forever" },
@@ -70,7 +71,13 @@ function clearSuggestionSelection() {
 
 function update() {
   const state = readState(document);
-  const { svg, size } = buildBadge(state);
+
+  const build =
+    state.style === "custom"
+      ? buildCustomBadge
+      : buildBadge;
+
+  const { svg, size } = build(state);
 
   currentSvg = svg;
   paint(stage, svg, size, 3);

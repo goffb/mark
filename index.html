@@ -31,6 +31,7 @@
         <summary>little tricks</summary>
         <div class="tricks-content">
           <p> write anything in the subtitle — a domain, a name, or symbols. </p>
+          <p> keep it short — 8 characters for titles, 18 for classic subtitles, 9 for custom. </p>
           <p> for a blank line, <button type="button" class="copy-space" aria-label="copy invisible space">copy invisible space</button> and paste it. </p>
           <p> badges are svgs — use them anywhere you like. </p>
         </div>
@@ -48,9 +49,20 @@
           </label>
           <label class="field">
             <span>subtitle</span>
-            <input type="text" id="site" name="site" placeholder="try a domain, a name, or symbols" maxlength="30" spellcheck="false" autocomplete="off">
+            <input type="text" id="site" name="site" placeholder="a name, a vibe, a domain..." maxlength="30" spellcheck="false" autocomplete="off">
           </label>
         </div>
+       <fieldset class="group" id="style-picker">
+          <legend>badge style</legend>
+          <label> 
+            <input type="radio" name="style" value="classic" checked>
+            <span>classic</span>
+          </label>
+          <label>
+            <input type="radio" name="style" value="custom" >
+            <span>custom</span>
+        </label>
+        </fieldset>
         <fieldset class="group" id="palette-picker">
           <legend>palette</legend>
         </fieldset>
