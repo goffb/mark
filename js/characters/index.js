@@ -11,6 +11,7 @@ import torii from "./torii.js";
 import mushroom from "./mushroom.js";
 import key from "./key.js";
 import bear from "./bear.js";
+import mug from "./mug.js";
 
 export const characters = [
   cat,
@@ -26,6 +27,7 @@ export const characters = [
   mushroom,
   key,
   bear,
+  mug,
 ];
 
 export function getCharacter(id) {

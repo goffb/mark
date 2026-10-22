@@ -31,7 +31,7 @@
 
 **15 palettes:** teal, pink, green, yellow, orange, purple, blue, red, slate, gray, plum, sage, petrol, brick, beige.
 
-**13 characters:** cat, fox, ghost, eye, star, skull, heart, mail, onigiri, torii, mushroom, key, bear.
+**14 characters:** cat, fox, ghost, eye, star, skull, heart, mail, onigiri, torii, mushroom, key, bear, mug.
 
 [explore them at makeamark.cc →](https://makeamark.cc/)
 
