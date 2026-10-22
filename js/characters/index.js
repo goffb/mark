@@ -12,6 +12,7 @@ import mushroom from "./mushroom.js";
 import key from "./key.js";
 import bear from "./bear.js";
 import mug from "./mug.js";
+import dpad from "./dpad.js";
 
 export const characters = [
   cat,
@@ -28,6 +29,7 @@ export const characters = [
   key,
   bear,
   mug,
+  dpad,
 ];
 
 export function getCharacter(id) {
