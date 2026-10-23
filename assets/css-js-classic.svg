@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="88" height="31" viewBox="0 0 88 31" shape-rendering="crispEdges">
-  <rect x="0" y="0" width="88" height="31" fill="#c9d8c9"/>
-  <rect x="0" y="0" width="88" height="2" fill="#718a7a"/>
-  <rect x="0" y="29" width="88" height="2" fill="#718a7a"/>
-  <rect x="0" y="0" width="2" height="31" fill="#718a7a"/>
-  <rect x="86" y="0" width="2" height="31" fill="#718a7a"/>
+  <rect x="0" y="0" width="88" height="31" fill="#e8ddc6"/>
+  <rect x="0" y="0" width="88" height="2" fill="#a99a7d"/>
+  <rect x="0" y="29" width="88" height="2" fill="#a99a7d"/>
+  <rect x="0" y="0" width="2" height="31" fill="#a99a7d"/>
+  <rect x="86" y="0" width="2" height="31" fill="#a99a7d"/>
   
-      <rect x="3" y="3" width="24" height="25" fill="#b4c7b9"/>
+      <rect x="3" y="3" width="24" height="25" fill="#e8ddc6"/>
 
-      <rect x="8" y="7" width="5" height="4" fill="#a55062"/>
-      <rect x="15" y="7" width="5" height="4" fill="#a55062"/>
+      <rect x="8" y="7" width="5" height="4" fill="#4f6d88"/>
+      <rect x="15" y="7" width="5" height="4" fill="#4f6d88"/>
       
-      <rect x="7" y="11" width="14" height="5" fill="#a55062"/>
-      <rect x="8" y="16" width="12" height="3" fill="#a55062"/>
-      <rect x="10" y="19" width="8" height="3" fill="#a55062"/>
-      <rect x="12" y="22" width="4" height="2" fill="#a55062"/>
+      <rect x="7" y="11" width="14" height="5" fill="#4f6d88"/>
+      <rect x="8" y="16" width="12" height="3" fill="#4f6d88"/>
+      <rect x="10" y="19" width="8" height="3" fill="#4f6d88"/>
+      <rect x="12" y="22" width="4" height="2" fill="#4f6d88"/>
 
-      <rect x="9" y="8" width="2" height="2" fill="#f2d9d1"/>
-      <rect x="16" y="8" width="2" height="2" fill="#f2d9d1"/>
+      <rect x="9" y="8" width="2" height="2" fill="#dce8e8"/>
+      <rect x="16" y="8" width="2" height="2" fill="#dce8e8"/>
     
-  <text x="32" y="16" fill="#403943" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="900" letter-spacing="-0.3" style="text-transform: none;">CSS &amp; JS</text>
-  <text x="32" y="25" fill="#775c68" font-family="Arial, Helvetica, sans-serif" font-size="5" letter-spacing="-0.15" style="text-transform: none;">VANILLA LOVER-</text>
+  <text x="32" y="16" fill="#26364a" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="900" letter-spacing="-0.3" style="text-transform: none;">CSS &amp; JS</text>
+  <text x="32" y="25" fill="#4d6276" font-family="Arial, Helvetica, sans-serif" font-size="5" letter-spacing="-0.15" style="text-transform: none;">LOVER -*-</text>
 </svg>
