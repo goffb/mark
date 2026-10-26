@@ -34,7 +34,7 @@ const suggestions = [
   { title: "http", site: "200 OK" },
   { title: "svg", site: "\u2800" },
   { title: "404", site: "not found" },
-  { title: "localhost", site: "127.0.0.1" },
+  { title: "local", site: "127.0.0.1" },
   { title: "private", site: "(×_×)" },
   { title: "free", site: "for all." },
   { title: "css <3", site: "\u2800" },
