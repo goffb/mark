@@ -37,8 +37,8 @@
 
 ## little tricks
 
-- use anything in the subtitle — a domain, a name, or symbols.
-- keep it short — 8 characters for titles, 18 for classic subtitles, and 9 for custom.
+- write anything in the subtitle — domain, name, symbols, etc.
+- keep it short — 8 characters for titles, 18 for classic subtitles, 9 for custom. 
 - badges are svgs — use them anywhere you like.
 
 ## example: sage palette with custom badge style
