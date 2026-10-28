@@ -1,4 +1,4 @@
-# <img src="./icons/icon-32.png" width="24" height="24" style="vertical-align: middle;" alt="logo"> make a mark
+# make a mark
 
 <p align="center">
   <img src="./assets/mam-draw.png" width="100%" alt="make a mark draw">
