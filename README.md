@@ -1,13 +1,11 @@
 # make a mark
 
-<p align="center">
-  <img src="./assets/mam-draw.png" width="100%" alt="make a mark draw">
-</p>
-
 <p align="left">
   <img src="assets/handmade.svg" alt="custom handmade badge" width="88" height="31">&nbsp;
-  <img src="assets/free.svg" alt="custom free badge" width="88" height="31">&nbsp;
+  <img src="assets/1999.svg" alt="custom 1999 badge" width="88" height="31">&nbsp;
   <img src="assets/client.svg" alt="custom client badge" width="88" height="31">&nbsp;
+  <img src="assets/free.svg" alt="custom free badge" width="88" height="31">&nbsp;
+  <img src="assets/mug-exe.svg" alt="custom mug-exe badge" width="88" height="31">&nbsp;
   <img src="assets/meoww.svg" alt="custom meoww badge" width="88" height="31">
 </p>
 
