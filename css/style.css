@@ -123,6 +123,22 @@ body {
   background: var(--cp-background);
   overflow: auto;
 }
+.zoom-field {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 16px;
+  cursor: default;
+}
+.zoom-field span {
+  font-size: 15px;
+  color: var(--muted);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.zoom-field input[type="checkbox"] {
+  cursor: default;
+}
 .app-controls {
   margin-top: 24px;
 }

@@ -18,6 +18,8 @@ const downloadBtn = document.querySelector("#download");
 const copyBtn = document.querySelector("#copy");
 const copyUriBtn = document.querySelector("#copy-uri");
 
+const zoomToggle = document.querySelector("#zoom-toggle");
+
 const inputs = [titleInput, siteInput];
 
 let currentSvg = "";
@@ -82,7 +84,9 @@ function update() {
   const { svg, size } = build(state);
 
   currentSvg = svg;
-  paint(stage, svg, size, 3);
+  
+  const zoom = zoomToggle?.checked ? 3 : 1;
+  paint(stage, svg, size, zoom);
 }
 
 function flash(btn, text) {
@@ -175,5 +179,6 @@ document.querySelector(".copy-space")?.addEventListener("click", async (e) => {
   }
 });
 
+zoomToggle?.addEventListener("change", update);
 renderSuggestions();
 update();
