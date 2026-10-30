@@ -13,6 +13,9 @@
   text-decoration: none;
   cursor: default;
 }
+*, *::before, *::after {
+  -webkit-tap-highlight-color: transparent;
+}
 ::selection {
   background-color: var(--acc);
   color: var(--bg);
