@@ -150,6 +150,9 @@ body {
   flex-direction: column;
   gap: 16px;
 }
+#palette-picker, #character-picker {
+  min-height: 44px; 
+}
 .fields {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -214,6 +217,7 @@ label:has(input[name="palette"][value="custom"]) {
   margin-top: 8px;
   padding: 8px;
   background: var(--cp-background);
+  min-height: 52px;
 }
 .color-grid {
   display: grid;
@@ -328,6 +332,12 @@ label:has(input[name="palette"][value="custom"]) {
   gap: 8px;
   margin-top: 16px;
 }
+.end-marks svg {
+  display: block;
+  flex-shrink: 0;
+  width: 88px;
+  height: 31px;
+}
 .end-message {
   color: var(--muted);
   font-size: 13px;
@@ -373,7 +383,9 @@ label:has(input[name="palette"][value="custom"]) {
   width: 100%;
   max-width: 472px;
   height: auto;
+  aspect-ratio: 400 / 274; 
   border: 1px solid color-mix(in srgb, var(--fg) 18%, transparent);
+  background: var(--cp-background); 
 }
 .about-page .palette-demo figcaption {
   margin-top: 8px;
@@ -391,6 +403,9 @@ label:has(input[name="palette"][value="custom"]) {
 }
 .about-page .easter-grid svg {
   display: block;
+  width: 88px;
+  height: 31px;
+  flex-shrink: 0;
 }
 .about-page small.est-note {
   font-size: 13px; 
@@ -411,7 +426,8 @@ label:has(input[name="palette"][value="custom"]) {
 .about-page .character-grid img {
   display: block;
   width: 88px;
-  height: 31px;
+  height: 31px; 
+  flex-shrink: 0;
 }
 .about-page .source-link {
   margin-top: 16px; 
