@@ -193,6 +193,19 @@ export const palettes = [
     name:    "#26364a",
     site:    "#4d6276",
     dark:    "#303b4a"
+  },
+  {
+    id: "custom",
+    label: "+ make your",
+    bg:      "#22272e",
+    frame:   "#444c56", 
+    box:     "#2d333b", 
+    main:    "#539bf5", 
+    shade:   "#316dca", 
+    light:   "#adbac7",
+    name:    "#f0f6fc",
+    site:    "#768390", 
+    dark:    "#1c2128"  
   }
 ];
 

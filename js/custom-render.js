@@ -7,7 +7,9 @@ const TITLE_LIMIT = 8;
 const SITE_LIMIT = 9;
 
 export function buildBadge(state) {
-  const palette = getPalette(state.paletteId);
+  const palette = state.paletteId === "custom" && state.customPalette
+    ? state.customPalette
+    : getPalette(state.paletteId)
   const character = getCharacter(state.characterId);
 
   const title = clamp(state.title, TITLE_LIMIT) || "HOLA!";

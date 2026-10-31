@@ -67,6 +67,23 @@ function renderPicker(container, items, name, defaultId) {
   }
 }
 
+const customPanel = document.querySelector("#custom-palette-panel");
+
+document.addEventListener("change", (e) => {
+  if (e.target.name === "palette") {
+    if (e.target.value === "custom") {
+      customPanel.style.display = "block";
+    } else {
+      customPanel.style.display = "none";
+    }
+  }
+  update();
+});
+
+document.querySelectorAll(".custom-colors input[type='color']").forEach((input) => {
+  input.addEventListener("input", update);
+});
+
 function clearSuggestionSelection() {
   document
     .querySelectorAll(".suggestion")
