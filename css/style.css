@@ -349,7 +349,7 @@ label:has(input[name="palette"][value="custom"]) {
   content: "/ ";
 }
 .about-page .content{
-  max-width: 560px;
+  width: 100%;
 }
 .about-page .content h1 {
   margin-bottom: 12px;
@@ -359,19 +359,70 @@ label:has(input[name="palette"][value="custom"]) {
   color: var(--fg);
 }
 .about-page .content p {
-  line-height: 1.6;
+  line-height: 1.5;
   color: var(--fg);
   font-size: 16px;
-  margin-bottom: 8px;
+  margin-bottom: 10px; 
 }
-.about-page .source-link a{
+.about-page .palette-demo {
+  margin: 16px 0 16px;
+}
+.about-page .palette-demo img {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 472px;
+  height: auto;
+  border: 1px solid color-mix(in srgb, var(--fg) 18%, transparent);
+}
+.about-page .palette-demo figcaption {
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 12px;
+}
+.about-page .easter-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start; 
+  gap: 8px;
+  width: 100%;
+  max-width: 472px; 
+  margin: 12px 0 8px;
+}
+.about-page .easter-grid svg {
+  display: block;
+}
+.about-page small.est-note {
+  font-size: 13px; 
+  display: inline-block;
+  margin-bottom: 20px; 
+  color: var(--muted); 
+  line-height: 1.4;
+}
+.about-page .character-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start; 
+  gap: 8px;
+  width: 100%;
+  max-width: 472px;
+  margin: 4px 0 16px;
+}
+.about-page .character-grid img {
+  display: block;
+  width: 88px;
+  height: 31px;
+}
+.about-page .source-link {
+  margin-top: 16px; 
+}
+.about-page .source-link a {
   color: var(--fg);
   text-decoration: underline;
   text-underline-offset: 2px;
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  margin-top: 8px;
 }
 .about-page .source-link a:hover{
   color: var(--acc);
@@ -396,5 +447,26 @@ label:has(input[name="palette"][value="custom"]) {
   }
   .group > label {
     padding: 4px 0;
+  }
+  .about-page .content {
+    padding-bottom: 20px;
+  }
+  .about-page .palette-demo img {
+    width: 100%;
+    max-width: 320px; 
+  }
+  .about-page .easter-grid {
+    justify-content: center;
+  }
+  .about-page small.est-note {
+    font-size: 11px; 
+    line-height: 1.35;
+    margin-bottom: 16px;
+  }
+  .about-page .character-grid {
+    justify-content: center; 
+  }
+  .about-page .source-link {
+    padding-bottom: 12px;
   }
 }

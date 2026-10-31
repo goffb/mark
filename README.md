@@ -31,6 +31,10 @@
 
 **15 characters:** cat, fox, ghost, eye, star, skull, heart, mail, onigiri, torii, mushroom, key, bear, mug, dpad.
 
+<img src="assets/custom-palette.gif" alt="custom palette demo" width="400">  
+<br>
+<small>also, you can create your own custom color palette with a few clicks.</small>
+
 [explore them at makeamark.cc →](https://makeamark.cc/)
 
 ## little tricks
