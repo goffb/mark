@@ -21,8 +21,8 @@ export function buildBadge(state) {
   <rect x="0" y="0" width="2" height="31" fill="${palette.frame}"/>
   <rect x="86" y="0" width="2" height="31" fill="${palette.frame}"/>
   ${body}
-  <text x="32" y="16" fill="${palette.name}" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="900" letter-spacing="-0.3" style="text-transform: none;">${escapeXml(title.toUpperCase())}</text>
-  <text x="32" y="25" fill="${palette.site}" font-family="Arial, Helvetica, sans-serif" font-size="5" letter-spacing="-0.15" style="text-transform: none;">${escapeXml(site)}</text>
+  <text x="32" y="16" fill="${palette.name}" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="900" letter-spacing="-0.3" style="text-transform: none; font-variant: normal; line-height: normal;">${escapeXml(title.toUpperCase())}</text>
+  <text x="32" y="25" fill="${palette.site}" font-family="Arial, Helvetica, sans-serif" font-size="5" letter-spacing="-0.15" style="text-transform: none; font-variant: normal; line-height: normal;">${escapeXml(site)}</text>
 </svg>`;
 
   return { svg, size: BADGE_SIZE };
