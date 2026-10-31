@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  make a mark is a simple tool for creating modern 88×31 badges for websites, readmes, and more.
+  make a mark is a simple tool for creating modern 88x31 badges for websites, readmes and more.
 </p>
 
 <p align="left">
@@ -27,7 +27,7 @@
 
 ## palettes & characters
 
-**15 palettes:** teal, pink, green, yellow, orange, purple, blue, red, slate, gray, plum, sage, petrol, sage, beige.
+**15 palettes:** teal, pink, green, yellow, orange, purple, blue, red, slate, gray, plum, sage, petrol, brick, beige.
 
 **15 characters:** cat, fox, ghost, eye, star, skull, heart, mail, onigiri, torii, mushroom, key, bear, mug, dpad.
 
