@@ -7,6 +7,7 @@
   <img src="assets/client.svg" alt="custom client badge" width="88" height="31">&nbsp;
   <img src="assets/free.svg" alt="custom free badge" width="88" height="31">&nbsp;
   <img src="assets/mug-exe.svg" alt="custom mug-exe badge" width="88" height="31">&nbsp;
+  <img src="assets/vim.svg" alt="custom vim badge" width="88" height="31">&nbsp;
   <img src="assets/meoww.svg" alt="custom meoww badge" width="88" height="31">&nbsp;
 </p>
 
@@ -32,9 +33,19 @@
 
 **15 characters:** cat, fox, ghost, eye, star, skull, heart, mail, onigiri, torii, mushroom, key, bear, mug, dpad.
 
+## custom palettes
+
+custom palettes give you full creative control. by matching certain color variables (like blending your character into the background), you can mask elements and craft minimalist badges. want just text? yeah, you can do that too. but remember: this only masks elements and doesn’t remove them from the svg code.
+
+<p align="left">
+<img src="assets/eas1.svg" alt="eas badge 1" width="88" height="31">&nbsp;
+<img src="assets/eas2.svg" alt="eas badge 2" width="88" height="31">&nbsp;
+<img src="assets/eas3.svg" alt="eas badge 3" width="88" height="31">&nbsp;
+<img src="assets/eas4.svg" alt="eas badge 4" width="88" height="31">&nbsp;
+</p>
+
 <p align="left">
 <img src="assets/custom-palette.gif" alt="custom palette demo" width="400"><br>
-<small>also, you can create your own custom color palette with a few clicks.</small>
 </p>
 
 [explore them at makeamark.cc →](https://makeamark.cc/)

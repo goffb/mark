@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="88" height="31" viewBox="0 0 88 31" shape-rendering="crispEdges">
-  <rect x="0" y="0" width="88" height="31" fill="#813d9c"/>
-  <rect x="0" y="0" width="88" height="2" fill="#9a63c5"/>
-  <rect x="0" y="29" width="88" height="2" fill="#9a63c5"/>
-  <rect x="0" y="0" width="2" height="31" fill="#9a63c5"/>
-  <rect x="86" y="0" width="2" height="31" fill="#9a63c5"/>
+  <rect x="0" y="0" width="88" height="31" fill="#4a0532"/>
+  <rect x="0" y="0" width="88" height="2" fill="#8c587a"/>
+  <rect x="0" y="29" width="88" height="2" fill="#8c587a"/>
+  <rect x="0" y="0" width="2" height="31" fill="#8c587a"/>
+  <rect x="86" y="0" width="2" height="31" fill="#8c587a"/>
   
-      <rect x="3" y="3" width="24" height="25" fill="#9a63c5"/>
+      <rect x="3" y="3" width="24" height="25" fill="#4a0532"/>
 
-      <rect x="11" y="7" width="1" height="2" fill="#f6f5f4"/>
-      <rect x="15" y="7" width="1" height="2" fill="#f6f5f4"/>
+      <rect x="11" y="7" width="1" height="2" fill="#c0bfbc"/>
+      <rect x="15" y="7" width="1" height="2" fill="#c0bfbc"/>
 
-      <rect x="8" y="11" width="12" height="12" fill="#ffa348"/>
-      <rect x="7" y="12" width="14" height="10" fill="#ffa348"/>
+      <rect x="8" y="11" width="12" height="12" fill="#deddda"/>
+      <rect x="7" y="12" width="14" height="10" fill="#deddda"/>
 
-      <rect x="8" y="10" width="12" height="2" fill="#f6f5f4"/>
+      <rect x="8" y="10" width="12" height="2" fill="#c0bfbc"/>
 
-      <rect x="21" y="13" width="2" height="6" fill="#ffa348"/>
-      <rect x="20" y="14" width="1" height="4" fill="#9a63c5"/>
+      <rect x="21" y="13" width="2" height="6" fill="#deddda"/>
+      <rect x="20" y="14" width="1" height="4" fill="#4a0532"/>
 
-      <rect x="8" y="22" width="12" height="1" fill="#ffa348" opacity="0.5"/>
+      <rect x="8" y="22" width="12" height="1" fill="#000000" opacity="0.5"/>
     
-  <text x="32" y="14" fill="#f6f5f4" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="900" letter-spacing="-0.3" style="text-transform: none; font-variant: normal; line-height: normal;">MUG.EXE</text>
-  <text x="32" y="23" fill="#f6f5f4" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="900" letter-spacing="-0.15" style="text-transform: none; font-variant: normal; line-height: normal;">⠀</text>
+  <text x="32" y="14" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="900" letter-spacing="-0.3" style="text-transform: none; font-variant: normal; line-height: normal;">MUG.EXE</text>
+  <text x="32" y="23" fill="#f6f5f4" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="900" letter-spacing="-0.15" style="text-transform: none; font-variant: normal; line-height: normal;">⠀⚞^. .^⚟</text>
 </svg>
