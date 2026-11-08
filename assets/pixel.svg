@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="31" viewBox="0 0 88 31" shape-rendering="crispEdges">
+  <rect x="0" y="0" width="88" height="31" fill="#986a44"/>
+  <rect x="0" y="0" width="88" height="2" fill="#cdab8f"/>
+  <rect x="0" y="29" width="88" height="2" fill="#cdab8f"/>
+  <rect x="0" y="0" width="2" height="31" fill="#cdab8f"/>
+  <rect x="86" y="0" width="2" height="31" fill="#cdab8f"/>
+  
+      <rect x="3" y="3" width="24" height="25" fill="#865e3c"/>
+
+      <rect x="10" y="7" width="8" height="2" fill="#c6bae9"/>
+      <rect x="8" y="9" width="12" height="8" fill="#c6bae9"/>
+      <rect x="10" y="17" width="10" height="2" fill="#c6bae9"/>
+      <rect x="7" y="18" width="14" height="4" fill="#c6bae9"/>
+
+      <rect x="19" y="12" width="5" height="3" fill="#9277e2"/>
+      <rect x="20" y="15" width="3" height="2" fill="#9277e2"/>
+
+      <rect x="15" y="11" width="2" height="2" fill="#1c2128"/>
+      <rect x="9" y="18" width="7" height="2" fill="#9277e2"/>
+
+      <rect x="10" y="22" width="4" height="2" fill="#9277e2"/>
+      <rect x="17" y="22" width="4" height="2" fill="#9277e2"/>
+    
+  <text x="32" y="14" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="900" letter-spacing="-0.3" style="text-transform: none; font-variant: normal; line-height: normal;">PIXEL</text>
+  <text x="32" y="23" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="900" letter-spacing="-0.15" style="text-transform: none; font-variant: normal; line-height: normal;">ART &gt;:3</text>
+</svg>

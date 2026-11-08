@@ -13,6 +13,9 @@ import key from "./key.js";
 import bear from "./bear.js";
 import mug from "./mug.js";
 import dpad from "./dpad.js";
+import gift from "./gift.js";
+import duck from "./duck.js";
+import bug from "./bug.js";
 
 export const characters = [
   cat,
@@ -30,6 +33,9 @@ export const characters = [
   bear,
   mug,
   dpad,
+  gift,
+  duck,
+  bug,
 ];
 
 export function getCharacter(id) {
