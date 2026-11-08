@@ -1,7 +1,7 @@
 # make a mark
 
 <p align="left">
-  <img src="assets/handmade.svg" alt="custom 88x31 handmade badge" width="88" height="31">&nbsp;
+  <img src="assets/handmade-yr.svg" alt="custom 88x31 handmade badge" width="88" height="31">&nbsp;
   <img src="assets/pixel.svg" alt="custom 88x31 pixel badge" width="88" height="31">&nbsp;
   <img src="assets/private.svg" alt="custom 88x31 private badge" width="88" height="31">&nbsp;
   <img src="assets/free.svg" alt="custom 88x31 free badge" width="88" height="31">&nbsp;
