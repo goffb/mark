@@ -6,8 +6,6 @@
   <img src="assets/private.svg" alt="custom 88x31 private badge" width="88" height="31">&nbsp;
   <img src="assets/free.svg" alt="custom 88x31 free badge" width="88" height="31">&nbsp;
   <img src="assets/client.svg" alt="custom 88x31 client badge" width="88" height="31">&nbsp;
-  <img src="assets/mug-exe.svg" alt="custom 88x31 mug-exe badge" width="88" height="31">&nbsp;
-  <img src="assets/vim.svg" alt="custom 88x31 vim badge" width="88" height="31">&nbsp;
 </p>
 
 <p align="left">
@@ -57,7 +55,7 @@ custom palettes give you full creative control. by matching certain color variab
 
 ## example: sage palette with custom badge style
 
-<div align="center">
+<div align="left">
 <img src="assets/cat.svg" alt="sage cat"  width="88" height="31" />&nbsp;
 <img src="assets/fox.svg" alt="sage fox"  width="88" height="31" />&nbsp;
 <img src="assets/ghost.svg" alt="sage ghost"  width="88" height="31" />&nbsp;
