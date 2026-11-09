@@ -55,7 +55,9 @@ body {
 }
 .app-header .tagline {
   font-size: 14px;
+  font-weight: 400;
   color: var(--muted);
+  margin: 0;
 }
 .app-header .about-link{
   color: var(--fg);
