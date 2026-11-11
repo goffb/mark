@@ -136,8 +136,8 @@ function renderSuggestions() {
   }
 }
 
-renderPicker(palettePicker, palettes, "palette", "brick");
-renderPicker(characterPicker, characters, "character", "eye");
+renderPicker(palettePicker, palettes, "palette", "mam");
+renderPicker(characterPicker, characters, "character", "duck");
 
 for (const input of inputs) {
   input.addEventListener("input", update);

@@ -1,5 +1,18 @@
 export const palettes = [
   {
+    id: "mam",
+    label: "mam",
+    bg:      "#eceff4",
+    frame:   "#d1d5db",
+    box:     "#e5e9f0",
+    main:    "#c6bae9",
+    shade:   "#9277e2",
+    light:   "#ffffff",
+    name:    "#2e3440",
+    site:    "#2e3440",
+    dark:    "#1b2a2f"
+  },
+  {
     id: "teal",
     label: "teal",
     bg:      "#1b2a2f",
@@ -93,15 +106,15 @@ export const palettes = [
   {
     id: "red",
     label: "red",
-    bg:      "#ffffff",
+    bg:      "#fff5f5",
     frame:   "#e63946",
-    box:     "#f5e8e9",
+    box:     "#fde8e9",
     main:    "#e63946",
-    shade:   "#a82632",
-    light:   "#ffd4d8",
-    name:    "#1a1a1a",
-    site:    "#7a5a5e",
-    dark:    "#ffffff"
+    shade:   "#b91c1c",
+    light:   "#fca5a5",
+    name:    "#18181b",
+    site:    "#71717a",
+    dark:    "#fff5f5"
   },
   {
     id: "slate",
@@ -154,19 +167,6 @@ export const palettes = [
     name:    "#403943",
     site:    "#775c68",
     dark:    "#462f43"
-  },
-  {
-    id: "petrol",
-    label: "petrol",
-    bg:      "#587477",
-    frame:   "#405b60",
-    box:     "#587477",
-    main:    "#f0c5a6",
-    shade:   "#c28678",
-    light:   "#ffe4c9",
-    name:    "#fff0dc",
-    site:    "#fff8ef",
-    dark:    "#754f55"
   },
   {
     id: "brick",
